@@ -1,0 +1,7 @@
+############
+Dictionaries
+############
+
+
+.. automodule:: dictionaries
+   :members:
