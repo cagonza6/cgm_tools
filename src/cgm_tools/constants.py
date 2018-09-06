@@ -23,11 +23,11 @@ not expected.
 
 
 .. Attention::
-    For some reason it is was not possible for me to get the docstring in this
-    page automatically. Use the link to the source code in order to see the
-    docstrings.
+    Something happened between Sphinx 1.6.7 and 1.7.x that the decorated
+    method do not apear in the documentation. If you face this problem
+    and need the documentation, please consider to use Sphinx 1.6.7.
 
-    The docstrings include the tests to.
+    The docstrings include the tests, doctest!
 
 """
 
